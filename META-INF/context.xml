@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <Resource name="jdbc/kicksatgs" 
+              auth="Container"
+              type="javax.sql.DataSource" 
+              username="kicksatgs" 
+              password="Gs^x1MUeT"
+              driverClassName="com.mysql.jdbc.Driver"
+              url="jdbc:mysql://maria55.metawerx.net:3502/kicksatgs?autoReconnect=true"
+              validationQuery="select 1"
+              removeAbandoned="true"
+              removeAbandonedTimeout="180"
+              logAbandoned="true"
+              maxWait="5"
+              maxActive="5"
+              minIdle="1"
+              maxIdle="3"
+              />
+
+</Context>
