@@ -1,2 +1,3 @@
 # TeamRoleInventory
-team role inventory - self-perception and (eventually) more
+
+Project Persephone team role inventory - self-perception and (eventually) more.
