@@ -35,24 +35,6 @@
 
 <p>
 
-<div id="container">
-  <ul>
-    <li data-jstree='{ "selected" : true, "opened" : true }'>Root node
-      <ul>
-        <li>Child node 1</li>
-        <li>Child node 2</li>
-      </ul>
-    </li>
-  </ul>
-</div>
-<script>
-$(function() {
-  $('#container').jstree();
-});
-</script>
-
-<p>
-
 <%
 
 Enumeration en = request.getParameterNames ();
