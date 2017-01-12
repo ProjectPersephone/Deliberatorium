@@ -1,3 +1,3 @@
-# TeamRoleInventory
+# Deliberatorium
 
-Project Persephone team role inventory - self-perception and (eventually) more.
+A Java web version of Mark Klein's Deliberatorium.
