@@ -2,5 +2,4 @@ open ftpcloud.metawerx.net
 kicksatgs
 cd private-cgi-bin/tomcat/Deliberatorium
 ls
-send index.html
-send ok.jsp
+send tree.jsp
