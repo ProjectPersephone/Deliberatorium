@@ -29,6 +29,7 @@
       <ul>
         <li>Child node 1</li>
         <li>Child node 2</li>
+        <li>Child node 3</li>
       </ul>
     </li>
   </ul>

@@ -1,8 +1,5 @@
-FILES= \
-META-INF \
-ok.jsp \
-tree.jsp \
-WEB-INF 
+STDJSPDIRS=META-INF WEB-INF 
+FILES= tree.jsp $(STDJSPDIRS)
 
 test:
 	cp -R ${FILES} $(TOMCAT_HOME)/webapps/Deliberatorium/
